@@ -11,10 +11,10 @@ mov [2025H],BL
 
 rol bl,01H
 
-mov [2030H],bl
+mov [2026H],bl
 
 ror bl,01H
 
-mov [2040H],bl
+mov [2027H],bl
                       
 end
